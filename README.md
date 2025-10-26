@@ -36,3 +36,11 @@ Quality assurance Engineer:
 Test automation engineer
 
 DevOps engineer
+
+# Database Design
+
+# Feature Breakdown
+
+# API Security
+
+# CI/CD Pipeline
