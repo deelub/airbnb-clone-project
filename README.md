@@ -23,3 +23,16 @@ Quality assurance Engineer:
 Test automation engineer
 
 DevOps engineer
+
+# Technology Stack:
+
+
+Software Architect:
+
+Software developer:
+
+Quality assurance Engineer:
+
+Test automation engineer
+
+DevOps engineer
