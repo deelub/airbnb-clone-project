@@ -24,7 +24,7 @@ Test automation engineer
 
 DevOps engineer
 
-# Technology Stack:
+# Technology Stack
 
 
 Software Architect:
