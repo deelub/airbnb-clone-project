@@ -1,7 +1,7 @@
 # airbnb-clone-project
 
+# Team Roles:
 Business analyst:
-
 
 Business analyst transform product ideas described by clients into real life tangible work sprints
 
